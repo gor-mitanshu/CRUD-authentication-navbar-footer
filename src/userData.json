@@ -1,0 +1,52 @@
+{
+  "user": [
+    {
+      "email": "admin@gmail.com",
+      "password": "123",
+      "firstname": "Lorem",
+      "lastname": "Ipsum",
+      "image": "https://example.com/profile.jpg",
+      "age": 21,
+      "gender": "Male",
+      "hobbies": "Gaming, Socializing",
+      "country": "US",
+      "state": "Gujarat",
+      "city": "Ahmedabad",
+      "profiles": [
+        {
+          "firstName": "Jack",
+          "lastName": "Dawsan",
+          "profileImage": "https://via.placeholder.com/150",
+          "age": 30,
+          "gender": "Male",
+          "hobbies": ["Reading", "Gaming", "Cooking"],
+          "country": "US",
+          "state": "California",
+          "city": "San Francisco"
+        },
+        {
+          "firstName": "Jenny",
+          "lastName": "Black",
+          "profileImage": "https://via.placeholder.com/150",
+          "age": 25,
+          "gender": "Female",
+          "hobbies": ["Traveling", "Photography"],
+          "country": "Canada",
+          "state": "London",
+          "city": "London"
+        },
+        {
+          "firstName": "Tom",
+          "lastName": "Brown",
+          "profileImage": "https://via.placeholder.com/150",
+          "age": 35,
+          "gender": "Male",
+          "hobbies": ["Sports"],
+          "country": "Canada",
+          "state": "Ontario",
+          "city": "Toronto"
+        }
+      ]
+    }
+  ]
+}
